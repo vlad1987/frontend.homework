@@ -1,0 +1,26 @@
+
+body {
+font-family: Calibri;
+font-size: 18px;
+}
+
+#content {
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+.ol li {
+	margin-bottom: 10px;
+	padding-left: 25px;
+}
+.sendmail {
+	margin-left: 25px;
+}
+
+.textmini {
+	font-size: 12px;
+}
+
+.padding {
+	margin-left: 25px;
+}
